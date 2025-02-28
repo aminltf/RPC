@@ -50,7 +50,7 @@ Many Windows printing issues are caused by corrupted spooler services or securit
 ## 🏆 Credits
 
 - **Developer:** [aminltf](https://github.com/aminltf)
-- **GitHub Repository:** [printermgmt](https://github.com/aminltf/RPC)
+- **GitHub Repository:** [RPC](https://github.com/aminltf/RPC)
 
 ---
 
